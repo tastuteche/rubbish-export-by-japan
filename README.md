@@ -1,4 +1,4 @@
-# trend-r-from-SO
+# rubbish export by japan
 
 ![rubbish_import_by_Japan.png](/rubbish_import_by_Japan.png)
 
