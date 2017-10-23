@@ -1,0 +1,174 @@
+https://www.foreign-trade.com/reference/hscode.htm
+0501	Human hair; unworked, whether or not washed or scoured; waste of human hair
+050100	Animal products; hair, human, unworked, whether or not washed or scoured, and waste of human hair
+0502	Pigs', hogs' or boars' bristles and hair; and waste thereof
+050210	Animal products; hair and bristles, of pigs, hogs or boars, and waste thereof
+050290	Animal products; badger hair and other brush making hair and waste of such bristles or hair, n.e.c. in heading no. 0502 (excluding horsehair)
+0505	Skins and other parts of birds with feathers, down; feathers, down and parts thereof; not further worked than cleaned, disinfected, treated for preservation; powder, waste and parts of feathers
+050590	Animal products; skins and other parts of birds, feathers and down (not for stuffing), powder and waste of such, not further worked than cleaned, disinfected or treated for preservation
+0506	Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products
+050690	Animal products; bones and horn-cores and powder or waste of such, unworked, defatted, simply prepared (not cut to shape), or treated with acid or degelatinised, n.e.c. in heading no. 0506
+0507	Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks unworked or simply prepared, not cut to shape; waste and powder of these products
+050710	Animal products; ivory, unworked or simply prepared but not cut to shape, ivory powder and waste
+050790	Animal products; tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape, waste and powder of these products
+0508	Coral and similar materials, unworked or simply prepared, shells of molluscs, crustaceans or echinoderms and cuttle-bone, not cut to shape powder and waste thereof
+050800	Animal products; coral and similar materials, shells of molluscs, crustaceans, echinoderms, cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof
+1802	Cocoa; shells, husks, skins and other cocoa waste
+180200	Cocoa; shells, husks, skins and other cocoa waste
+
+23	FOOD INDUSTRIES, RESIDUES AND WASTES THEREOF; PREPARED ANIMAL FODDER
+2303	Residues of starch manufacture, similar residues; beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets
+230320	Beet-pulp, bagasse and other waste of sugar manufacture; whether or not in the form of pellets
+230330	Brewing or distilling dregs and waste; whether or not in the form of pellets
+2308	Vegetable materials and vegetable waste, vegetable residues and bi-products; whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included
+230800	Vegetable materials and vegetable waste, vegetable residues and by-products; whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included
+251720	Macadam of slag, dross or similar industrial waste; whether or not incorporating the materials in item no. 2517.10
+2525	Mica, including splittings; mica waste
+252530	Mica; waste
+2619	Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel
+261900	Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel
+2621	Slag and ash n.e.c. in chapter 26; including seaweed ash (kelp) and ash and residues from the incineration of municipal waste
+262110	Slag and ash; ash and residues from the incineration of municipal waste
+262190	Slag and ash n.e.c. in chapter 26; including seaweed ash (kelp) but excluding ash and residues from the incineration of municipal waste
+2710	Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils
+271012	Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations
+271019	Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; not light oils and preparations
+271020	Petroleum oils and oils from bituminous minerals, containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals
+271091	waste Oils; of petroleum or obtained from bituminous minerals, not crude; and preparations n.e.c., weight 70% or preparations of the same, containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)
+271099	waste Oils; of petroleum or obtained from bituminous minerals, not crude and preparations n.e.c., weight 70% or preparations of the same, not containing polychlorinated biphenyls (PCBs), polychorinated terphenyls (PCTs) or polybrominated biphenyls (PBBs)
+300692	Pharmaceutical goods; waste pharmaceuticals
+3825	Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other residual products.
+382510	Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste
+382530	Residual products of the chemical or allied industries, not elsewhere specified or included; clinical waste
+382541	Residual products of the chemical or allied industries, not elsewhere specified or included; halogenated waste organic solvents
+382549	Residual products of the chemical or allied industries, not elsewhere specified or included; waste organic solvents, other than halogenated
+382550	Residual products of chemical or allied industries, not elsewhere specified or included; wastes of metal pickling liquors, hydraulic fluids, brake fluids and anti-freeze fluids
+382561	Residual products of the chemical or allied industries, not elsewhere specified or included; (other than sewage sludge, municipal waste or waste covered in 27.10); other wastes n.e.c. in 3825; those mainly containing organic constituents
+382569	Residual products of the chemical or allied industries, not elsewhere specified or included; (other than sewage sludge, municipal waste or waste covered by 27.10); other wastes n.e.c. in 3825; except those mainly containing organic constituents
+3915	waste, parings and scrap, of plastics
+391510	Ethylene polymers; waste, parings and scrap
+391520	Styrene polymers; waste, parings and scrap
+391530	Vinyl chloride polymers; waste, parings and scrap
+391590	Plastics n.e.c. in heading no. 3915; waste, parings and scrap
+4004	waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom
+400400	Rubber; waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom
+4017	Hard rubber (e.g. ebonite) in all forms, including waste and scrap; articles of hard rubber
+401700	Rubber; ebonite and other hard rubbers in all forms, including waste and scrap, and articles of hard rubber
+4115	Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, in rolls or not; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour
+411520	Leather; parings and other waste, of leather or composition leather; not suitable for the manufacture of leather articles; leather dust, powder and flour
+4401	Fuel wood, in logs, billets, twigs, faggots or similar forms; wood in chip or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms
+440131	Wood; for fuel, sawdust and wood waste and scrap, agglomerated in logs, briquettes, pellets or similar forms; wood pellets
+440139	Wood; for fuel, sawdust and wood waste and scrap, agglomerated in logs, briquettes, pellets or similar forms; other than wood pellets
+440140	Wood; for fuel, sawdust and wood waste and scrap, not agglomerated
+4501	Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork
+450190	Cork; waste cork, crushed, granulated or ground cork
+
+47	PULP OF WOOD OR OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (waste AND SCRAP) PAPER OR PAPERBOARD
+4706	Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material
+470620	Pulp; of fibres derived from recovered (waste and scrap) paper or paperboard
+470691	Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, mechanical
+470692	Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, chemical
+470693	Pulp; of fibrous cellulosic material, other than of bamboo or fibres derived from recovered (waste and scrap) paper or paperboard or from cotton linters pulp, obtained by a combination of mechanical and chemical processes
+4707	waste and scrap of paper and paperboard
+470710	Paper or paperboard; waste and scrap, of unbleached kraft paper or paperboard or corrugated paper or paperboard
+470720	Paper or paperboard; waste and scrap, paper or paperboard made mainly of bleached chemical pulp, not coloured in the mass
+470730	Paper or paperboard; waste and scrap, paper or paperboard made mainly of mechanical pulp (e.g. newspapers, journals and similar printed matter)
+470790	Paper or paperboard; waste and scrap, of paper or paperboard n.e.c. in heading no. 4707 and of unsorted waste and scrap
+5003	Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)
+500300	Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)
+5004	Silk; yarn (other than yarn spun from silk waste), not put up for retail sale
+500400	Silk; yarn (other than yarn spun from silk waste), not put up for retail sale
+5005	Yarn spun from silk waste, not put up for retail sale
+500500	Silk; yarn spun from silk waste, not put up for retail sale
+5006	Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut
+500600	Silk yarn and yarn spun from silk waste; put up for retail sale, and silk-worm gut
+5007	Woven fabrics of silk or of silk waste
+500720	Silk; woven fabrics, containing 85% or more by weight of silk or of silk waste other than noil silk
+5103	waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock
+510310	Wool and hair; noils of wool or of fine animal hair, including yarn waste, but excluding garnetted stock
+510320	Wool and hair; waste of wool or of fine animal hair, including yarn waste, but excluding garnetted stock and noils of wool or of fine animal hair
+510330	Wool and hair; waste of coarse animal hair, including yarn waste, but excluding garnetted stock
+5202	Cotton waste (including yarn waste and garnetted stock)
+520210	Cotton; yarn waste (including thread waste)
+520291	Cotton; garnetted stock waste
+520299	Cotton; waste other than garnetted stock and yarn (including thread) waste
+5301	Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock)
+530130	Flax; tow and waste, including yarn waste and garnetted stock
+5302	True hemp (cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock)
+530290	Hemp (cannabis sativa L.); processed (other than retted) (but not spun), true hemp tow and waste (including yarn waste and garnetted stock)
+5303	Jute and other textile bast fibres (not flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres, including yarn waste and garnetted stock
+530390	Jute and other textile bast fibres; processed but not spun, tow and waste of these fibres, including yarn waste and garnetted stock (excluding flax, hemp (cannabis sativa L.), and ramie)
+5305	Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)
+530500	Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres n.e.c., raw or processed but not spun; tow, noils and waste of these fibres (including yarn waste and garnetted stock)
+5505	waste (including noils, yarn waste and garnetted stock), of man-made fibres
+550510	Fibres; waste (including noils, yarn waste and garnetted stock), of synthetic fibres
+550520	Fibres; waste (including noils, yarn waste and garnetted stock), of artificial fibres
+620610	Blouses, shirts and shirt-blouses; women's or girls', of silk or silk waste (not knitted or crocheted)
+621410	Shawls, scarves, mufflers, mantillas, veils and the like; of silk or silk waste (not knitted or crocheted)
+621510	Ties, bow ties and cravats; of silk or silk waste (not knitted or crocheted)
+6808	Panels, boards, tiles, blocks and the like; of vegetable fibre, of straw, shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders
+680800	Panels, boards, tiles, blocks and the like; of vegetable fibre, of straw, shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders
+7001	Glass; cullet and other waste and scrap of glass, glass in the mass
+700100	Glass; cullet and other waste and scrap of glass, glass in the mass
+7112	waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal compounds, of a kind uses principally for the recovery of precious metal
+711230	waste and scrap of precious metal or of metal clad with precious metal; ash containing precious metal or precious metal compounds
+711291	waste and scrap of precious metals; of gold, including metal clad with gold but excluding sweepings containing other precious metals
+711292	waste and scrap of precious metals; of platinum, including metal clad with platinum but excluding sweepings containing other precious metals
+711299	waste and scrap of precious metals; waste and scrap of precious metals including metal clad with precious metals, other than that of gold and platinum and excluding ash which contains precious metal or precious metal compounds
+7204	Ferrous waste and scrap; remelting scrap ingots of iron or steel
+720410	Ferrous waste and scrap; of cast iron
+720421	Ferrous waste and scrap; of stainless steel
+720429	Ferrous waste and scrap; of alloy steel (excluding stainless)
+720430	Ferrous waste and scrap; of tinned iron or steel
+720441	Ferrous waste and scrap; turnings, shavings, chips, milling waste, sawdust, fillings, trimmings and stampings, whether or not in bundles
+720449	Ferrous waste and scrap; n.e.c. in heading no. 7204
+7404	Copper; waste and scrap
+740400	Copper; waste and scrap
+7503	Nickel; waste and scrap
+750300	Nickel; waste and scrap
+7602	Aluminium; waste and scrap
+760200	Aluminium; waste and scrap
+7802	Lead; waste and scrap
+780200	Lead; waste and scrap
+7902	Zinc; waste and scrap
+790200	Zinc; waste and scrap
+8002	Tin; waste and scrap
+800200	Tin; waste and scrap
+8101	Tungsten (wolfram); articles thereof, including waste and scrap
+810110	Tungsten (wolfram); articles thereof, including waste and scrap, powders
+810197	Tungsten (wolfram); waste and scrap
+8102	Molybdenum; articles thereof, including waste and scrap
+810210	Molybdenum; articles thereof, including waste and scrap, powders
+810297	Molybdenum; waste and scrap
+8103	Tantalum; articles thereof, including waste and scrap
+810330	Tantalum; waste and scrap
+8104	Magnesium; articles thereof, including waste and scrap
+810420	Magnesium; waste and scrap
+8105	Cobalt; mattes and other intermediate products of cobalt metallurgy, cobalt and articles thereof, including waste and scrap
+810530	Cobalt; waste and scrap
+8106	Bismuth; articles thereof, including waste and scrap
+810600	Bismuth; articles thereof, including waste and scrap
+8107	Cadmium; articles thereof, including waste and scrap
+810730	Cadmium; waste and scrap
+8108	Titanium; articles thereof, including waste and scrap
+810830	Titanium; waste and scrap
+8109	Zirconium; articles thereof, including waste and scrap
+810930	Zirconium; waste and scrap
+8110	Antimony; articles thereof, including waste and scrap
+811020	Antimony; waste and scrap
+811090	Antimony and articles thereof; wrought, other than waste and scrap
+8111	Manganese; articles thereof, including waste and scrap
+811100	Manganese; articles thereof, including waste and scrap
+8112	Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium; and articles of these metals, including waste and scrap
+811213	Beryllium; waste and scrap
+811219	Beryllium and articles thereof; wrought other than waste and scrap
+811222	Chromium; waste and scrap
+811229	Chromium and articles thereof; wrought other than waste and scrap
+811252	Thallium; waste and scrap
+811259	Thallium and articles thereof; other than unwrought thallium, powders or waste and scrap
+811292	Gallium, germanium, hafnium, indium, niobium (columbium), rhenium and vanadium; articles thereof, unwrought, including waste and scrap, powders
+811299	Gallium, germanium, hafnium, indium, niobium (columbium), rhenium and vanadium; articles thereof, other than unwrought including waste and scrap and powders
+8113	Cermets; articles thereof, including waste and scrap
+811300	Cermets; articles thereof, including waste and scrap
+8548	waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85
+854810	waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators
